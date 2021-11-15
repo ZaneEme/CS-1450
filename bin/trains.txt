@@ -1,0 +1,9 @@
+8
+highspeed 267 Shanghai Maglev
+lightrail 50 Vancouver SkyTrain
+monorail 40 Walt Disney Monorail
+cog 9 Pikes Peak Cog
+highspeed 200 Eurostar e320
+monorail 45 Seattle Monorail
+lightrail 55 Denver Lightrail
+cog 4.6 Mount Washington Cog
